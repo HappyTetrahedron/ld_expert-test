@@ -1,7 +1,7 @@
 from distutils.core import setup
 
-setup(name='testscriptN',
+setup(name='testscript000',
       version='',
       long_description=open('README.md').read(),
-      packages=['transcriptN']
+      packages=['testscript000']
   )
